@@ -12,3 +12,5 @@ También este video demostrativo:
 https://youtu.be/BPjklUhMqUg
 
 Espero pueda ayudar a personas que se inicián en el mundo del DIY a conocer concetos básicos del desarrollo de proyectos de tecnología:blue_heart:.
+
+[![photo](https://tecnoingenia.com/wp-content/uploads/2019/12/IMG_20191212_200115-scaled-e1576213909570-2048x1536.jpg "photo")](https://tecnoingenia.com/wp-content/uploads/2019/12/IMG_20191212_200115-scaled-e1576213909570-2048x1536.jpg "photo")
